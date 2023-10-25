@@ -1,0 +1,11 @@
+load
+optsurface.avl
+case
+runcase
+
+oper
+x
+ft
+forces
+
+quit

@@ -1,0 +1,4 @@
+CL = 0.2000
+span = 500 mm
+area = 80000 mm2
+CL0alfa = -0.2

@@ -1,0 +1,2 @@
+P = [];
+[bezcurve, intcurveyy] = bezier_(P, 100 , [], 1)
